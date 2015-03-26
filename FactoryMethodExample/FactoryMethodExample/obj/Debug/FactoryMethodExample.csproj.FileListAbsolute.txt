@@ -1,0 +1,11 @@
+c:\users\1\documents\visual studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.Form1.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\bin\Debug\FactoryMethodExample.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\obj\Debug\FactoryMethodExample.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Documents\Visual Studio 2012\Projects\FactoryMethodExample\FactoryMethodExample\bin\Debug\Newtonsoft.Json.xml
