@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2012\Projects\BuilderExample\BuilderExample\bin\Debug\BuilderExample.exe.config
+c:\users\1\documents\visual studio 2012\Projects\BuilderExample\BuilderExample\obj\Debug\BuilderExample.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\BuilderExample\BuilderExample\bin\Debug\BuilderExample.exe
+c:\users\1\documents\visual studio 2012\Projects\BuilderExample\BuilderExample\bin\Debug\BuilderExample.pdb
+c:\users\1\documents\visual studio 2012\Projects\BuilderExample\BuilderExample\obj\Debug\BuilderExample.exe
+c:\users\1\documents\visual studio 2012\Projects\BuilderExample\BuilderExample\obj\Debug\BuilderExample.pdb
