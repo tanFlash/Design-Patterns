@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2012\Projects\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.exe.config
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.Form1.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.pdb
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.exe
+C:\Users\1\Documents\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.pdb
